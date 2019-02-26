@@ -1,0 +1,25 @@
+.text-field {
+    -fx-font-family: Courier SB; 
+    -fx-font-weight: bold;
+}
+
+.save-button {
+    -fx-padding: 4;
+}
+
+.label {
+    -fx-text-fill: #666;
+}
+
+.security-bar {
+    -fx-accent: rgb(50, 210, 0);
+}
+
+.security-bar .bar {
+    -fx-padding: 4px;
+    -fx-background-insets: 1;
+}
+
+.root {
+    -fx-background-color: linear-gradient(white, #F0FFFF);
+}
